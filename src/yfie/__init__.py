@@ -84,6 +84,10 @@ def main():
         print(f"Encoding error: {err}")
         exit(1)
 
+    if args.text:
+        print(connection)
+        exit(0)
+
     if args.preview:
         preview_qr(connection)
         exit(0)

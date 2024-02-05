@@ -11,7 +11,7 @@ By default, the app will output the QR code as ASCII text to the terminal, but y
 Use either `pipx` (recommended) or `pip`.
 
 ```sh
-pipx install git+https://github.com/jahinzee/wyfi.git  
+pipx install git+https://github.com/jahinzee/yfie.git  
 ```
 
 
